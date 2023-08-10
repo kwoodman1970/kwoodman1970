@@ -1,4 +1,4 @@
-# My Online Digital Portfolio!
+# My Online Digital Portfolio
 
 **Greetings, Traveller, and Welcome!**
 
