@@ -12,15 +12,19 @@ In more-or-less reverse order of chronology:
 
 ## [ExtrAdeept](https://github.com/kwoodman1970/ExtrAdeept/) (Python)
 
-This is my current project.  It's a Python library for controlling [Adeept's](https://www.adeept.com/) [Raspberry Pi](https://www.raspberrypi.org/)-based [robot kits](http://www.adeept.com/c/robotics_0416/).  The goal is to have a library of objects that interact with the components (e.g. motors, lights and sensors) that are connected to the [HAT](https://www.adeept.com/search/?&Keyword=hat&Price=20-40), and to be able to create an object for the machine that's formed by such components (e.g. an articulating arm, a car or a tank).
+This is my current project.  It's a Python library for controlling [Adeept's](https://www.adeept.com/) [Raspberry Pi](https://www.raspberrypi.org/)-based [robot kits](http://www.adeept.com/c/robotics_0416/).  The goal is to have a library of classes for creating objects that interact with the components (e.g. motors, lights and sensors) that are connected to the [HAT](https://www.adeept.com/search/?&Keyword=hat&Price=20-40), and to be able to create an object for the machine that's formed by such components (e.g. an articulating arm, a car or a tank).
 
-## InceptionU-Project3 (React, JavaScript)
+## [InceptionU-Project3a](https://github.com/kwoodman1970/InceptionU-Project3a) (React, JavaScript)
 
-*Will be available soon...*
+For Project 3 at [InceptionU](https://www.inceptionu.com/), we were to work on real-world web applications for real-world clients.  Extra credit was given for using [React components](https://react.dev/learn), user authentication, having a second application for administrators, and a number of other things.
+
+We had the privilege of working on [PAWSitive PetStarz](https://www.petstarz.ca/) &ndash; a web application for helping pet adopters connect with ethicial, humane pet suppliers.  We were given a codebase that had been built by a team of students at [SAIT](https://www.sait.ca/), and our primary task was to create a set of forms for letting pet suppliers input their pets and associated records into the application.
+
+This repository does *not* contain the complete application &ndash; it's just a small subset and it only contains the files that we worked on.  You *can* see the fruits of our labours in our [demonstration video](https://www.youtube.com/watch?v=3aLnxrPMmDY), though.
 
 ## [InceptionU-Project2](https://github.com/kwoodman1970/InceptionU-Project2) (React, JavaScript)
 
-For Project 2 at [InceptionU](https://www.inceptionu.com/), we were to make a full stack app that addresses a unique challenge or problem.  Extra credit was given for implementing full [CRUD functionality](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), having more than one or two pages, use a document-style database (like [MongoDB](https://www.mongodb.com/)), [React](https://react.dev/) with a context API, and a number of other things.
+For Project 2 at [InceptionU](https://www.inceptionu.com/), we were to make a full stack app that addresses a unique challenge or problem.  Extra credit was given for implementing full [CRUD functionality](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), having more than one or two pages, using a document-style database (like [MongoDB](https://www.mongodb.com/)), [React](https://react.dev/) with a context API, and a number of other things.
 
 Our submission was an application for individuals to invite their friends to join in pop-up, ad-hoc phyiscal activites around the city.  We used [React](https://react.dev/) with a context for userID and stored data in JSON files that are saved when the server receives a SIGINT (Ctrl-C) signal.
 
@@ -36,7 +40,7 @@ Everyone who attended the demo was *very* impressed!
 
 ## [BottledWaterGlowLamp](https://github.com/kwoodman1970/BottledWaterGlowLamp) (HTML/CSS/JavaScript)
 
-I started making this some time around 2016 as an exercise while I was self-learning how to make progressive web apps that can run unaltered universally on any mobile device. It uses the now-obsolete appcache manifest method.
+I started making this some time around 2016 as an exercise while I was self-learning how to make progressive web apps that can run unaltered universally on any mobile device. It uses the now-obsolete [appcache manifest](https://en.wikipedia.org/wiki/Cache_manifest_in_HTML5) method.
 
 I was inspired to create this after seeing a similar app on an app store and saying to myself, "Cool!  I think I can do better."
 
