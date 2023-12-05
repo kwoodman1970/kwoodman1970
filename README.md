@@ -51,9 +51,15 @@ I was inspired to create this after seeing a similar app on an app store and say
 
 These are websites that I created as a volunteer for TRAIN Conference.  **They're highly primitive in appearance and implementation by today's standards,** but they complied with the standards & best practices of the day and demonstrate how my skills improved &amp; my experience increased year after year.
 
-## [Platform]() (C/C++)
+## [Platform](https://github.com/kwoodman1970/Platform) (C/C++)
 
 In the late 1990's, as I was nearing the end of my days as a university student, I was keenly interested in multi-platform software development but dismayed by the diversity of compiler macros that each C/C++ compiler manufacturer used.  This project's goal was to bring order to this chaos by implementing a common set of macros that would make multi-platform coding easier.
+
+## [TestSuite](https://github.com/kwoodman1970/TestSuite) (C/C++)
+
+In the mid 1990's, I was doing my internship before my final year as a student at the [University of Alberta](https://www.ualberta.ca).  I was testing some code that I'd written one day and I began to think about how to automate this kind of testing.  Some companies were starting to sell software for black-box testing but the data types were limited to primitive C types and therefore would not be suitable for C++ objects.  I then thought, "What if C++ code could be used to test C++ code &ndash; including objects?"
+
+This project is the result of that line of thinking.
 
 ## [DataStructures](https://github.com/kwoodman1970/DataStructures) (C++)
 
