@@ -1,10 +1,12 @@
 # My Online Digital Portfolio
 
+<img src=".README/banner.jpg" alt="Banner">
+
 **Greetings, Traveller, and Welcome!**
 
 Here you'll find various projects using a range of technologies that I've worked on over the years.  It's a showcase of my skills, learnings and experience.
 
-**NOTE:**  Some of my repositories don't have a license yet.  Please adopt a ["look but don't use"](https://choosealicense.com/no-permission/) approach with them for the time being (you might come across things that are copyrighted by a third party and used with permission &ndash; I cannot extend that permission to you).  I will add licenses or copyright notices to all of my public repositories in the near future.
+**NOTE:**  Some of my repositories don't have a license yet.  Please adopt a "[look but don't use](https://choosealicense.com/no-permission/)" approach with them for the time being (you might come across things that are copyrighted by a third party and used with permission &ndash; I cannot extend that permission to you).  I will add licenses or copyright notices to all of my public repositories in the near future.
 
 ---
 
@@ -38,7 +40,7 @@ My submission was a proof-of-concept of how mentors and protégés can connect. 
 
 Everyone who attended the demo was *very* impressed!
 
-## [BottledWaterGlowLamp](https://github.com/kwoodman1970/BottledWaterGlowLamp) (HTML/CSS/JavaScript)
+## [BottledWaterGlowLamp](https://github.com/kwoodman1970/BottledWaterGlowLamp) (DHTML)
 
 I started making this some time around 2016 as an exercise while I was self-learning how to make progressive web apps that can run unaltered universally on any mobile device. It uses the now-obsolete [appcache manifest](https://en.wikipedia.org/wiki/Cache_manifest_in_HTML5) method.
 
