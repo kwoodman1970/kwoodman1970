@@ -1,4 +1,5 @@
 # My Online Digital Portfolio
+<!-- If this title is changed then change the title(s) on the website's Portfolio page to match. -->
 
 <img src=".README/banner.jpg" alt="Banner">
 
@@ -40,13 +41,13 @@ My submission was a proof-of-concept of how mentors and protégés can connect. 
 
 Everyone who attended the demo was *very* impressed!
 
-## [BottledWaterGlowLamp](https://github.com/kwoodman1970/BottledWaterGlowLamp) (DHTML)
+## [BottledWaterGlowLamp](https://github.com/kwoodman1970/BottledWaterGlowLamp) (DHTML &ndash; HTML/CSS/JavaScript)
 
 I started making this some time around 2016 as an exercise while I was self-learning how to make progressive web apps that can run unaltered universally on any mobile device. It uses the now-obsolete [appcache manifest](https://en.wikipedia.org/wiki/Cache_manifest_in_HTML5) method.
 
 I was inspired to create this after seeing a similar app on an app store and saying to myself, "Cool!  I think I can do better."
 
-## TRAIN Conference Websites (HTML/CSS/JavaScript)
+## TRAIN Conference Websites (DHTML &ndash; HTML/CSS/JavaScript)
 
 [\[Web Page View\]](https://kwoodman1970.github.io/TRAINConference/)<br />
 [\[Repository View\]](https://github.com/kwoodman1970/TRAINConference/)
