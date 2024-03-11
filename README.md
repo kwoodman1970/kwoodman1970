@@ -13,11 +13,23 @@ Here you'll find various projects using a range of technologies that I've worked
 
 In more-or-less reverse order of chronology:
 
+## Open Source Micro-Credentials &ndash; [Frontend](https://github.com/new-idea-machine/micro-credentials-platform-front) & [Backend](https://github.com/new-idea-machine/micro-credentials-platform-back) (MERN)
+
+I'm currently volunteering with [New Idea Machine](https://newideamachine.com/), and this project for [Untapped Energy](https://www.untappedenergy.ca/) is a web application where learners can access courses, lessons & other materials that are provided by instructors.  I was voted "Leader" by the other developers since I had the most experience.  We're all starting this project together at square one.
+
+My development efforts here are focused on the frontend and the other developers are working on the backend.  We're using an [OpenAPI](https://www.openapis.org/) specification to co-ordinate our labours.  I'm also developing manual & automated tests (using [Jest](https://jestjs.io/)) as features are added to the project.
+
+## [Open Source Contractor Database System](https://github.com/new-idea-machine/os-contractor-database-system/) (React)
+
+I'm currently volunteering with [New Idea Machine](https://newideamachine.com/), and this project is a web application for connecting recruiters with technical talent.  A significant amount of work had already been done by the time I joined in, but development had been stalled since near the end of in 2023.
+
+I'm currently implementing a new visual UX/UI design (which is being developed by [FarNaya](https://github.com/FarNaya)).  As I go, I'm simplifying the code and adding semantic HTML elements so that visually-impaired people will be able to use this web application.
+
 ## [ExtrAdeept](https://github.com/kwoodman1970/ExtrAdeept/) (Python)
 
-This is my current project.  It's a Python library for controlling [Adeept's](https://www.adeept.com/) [Raspberry Pi](https://www.raspberrypi.org/)-based [robot kits](http://www.adeept.com/c/robotics_0416/).  The goal is to have a library of classes for creating objects that interact with the components (e.g. motors, lights and sensors) that are connected to the [HAT](https://www.adeept.com/search/?&Keyword=hat&Price=20-40), and to be able to create an object for the machine that's formed by such components (e.g. an articulating arm, a car or a tank).
+This is my most recent personal project (still under development).  It's a Python library for controlling [Adeept's](https://www.adeept.com/) [Raspberry Pi](https://www.raspberrypi.org/)-based [robot kits](http://www.adeept.com/c/robotics_0416/).  The goal is to have a library of classes for creating objects that interact with the components (e.g. motors, lights and sensors) that are connected to the [HAT](https://www.adeept.com/search/?&Keyword=hat&Price=20-40), and to be able to create an object for the machine that's formed by such components (e.g. an articulating arm, a car or a tank).
 
-## [InceptionU-Project3a](https://github.com/kwoodman1970/InceptionU-Project3a) (React, JavaScript)
+## [InceptionU-Project3a](https://github.com/kwoodman1970/InceptionU-Project3a) (MERN)
 
 For Project 3 at [InceptionU](https://www.inceptionu.com/), we were to work on real-world web applications for real-world clients.  Extra credit was given for using [React components](https://react.dev/learn), user authentication, having a second application for administrators, and a number of other things.
 
