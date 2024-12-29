@@ -33,7 +33,7 @@ This is my most recent personal project (still under development).  It's a Pytho
 
 For Project 3 at [InceptionU](https://www.inceptionu.com/), we were to work on real-world web applications for real-world clients.  Extra credit was given for using [React components](https://react.dev/learn), user authentication, having a second application for administrators, and a number of other things.
 
-We had the privilege of working on [PAWSitive PetStarz](https://www.petstarz.ca/) &ndash; a web application for helping pet adopters connect with ethicial, humane pet suppliers.  We were given a codebase that had been built by a team of students at [SAIT](https://www.sait.ca/), and our primary task was to create a set of forms for letting pet suppliers input their pets and associated records into the application.
+We had the privilege of working on [PAWSitive PetStarz](https://www.petstarz.ca/) &ndash; a web application for helping pet adopters connect with ethical, humane pet suppliers.  We were given a codebase that had been built by a team of students at [SAIT](https://www.sait.ca/), and our primary task was to create a set of forms for letting pet suppliers input their pets and associated records into the application.
 
 This repository does *not* contain the complete application &ndash; it's just a small subset and it only contains the files that we worked on.  You *can* see the fruits of our labours in our [demonstration video](https://www.youtube.com/watch?v=3aLnxrPMmDY), though.
 
@@ -41,13 +41,13 @@ This repository does *not* contain the complete application &ndash; it's just a 
 
 For Project 2 at [InceptionU](https://www.inceptionu.com/), we were to make a full stack app that addresses a unique challenge or problem.  Extra credit was given for implementing full [CRUD functionality](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete), having more than one or two pages, using a document-style database (like [MongoDB](https://www.mongodb.com/)), [React](https://react.dev/) with a context API, and a number of other things.
 
-Our submission was an application for individuals to invite their friends to join in pop-up, ad-hoc phyiscal activites around the city.  We used [React](https://react.dev/) with a context for userID and stored data in JSON files that are saved when the server receives a SIGINT (Ctrl-C) signal.
+Our submission was an application for individuals to invite their friends to join in pop-up, ad-hoc physical activities around the city.  We used [React](https://react.dev/) with a context for userID and stored data in JSON files that are saved when the server receives a SIGINT (Ctrl-C) signal.
 
 We didn't get as far with this project as we would've liked, but that's okay &ndash; for us, the true goal of this project was to learn.
 
 ## [InceptionU-Project1](https://github.com/kwoodman1970/InceptionU-Project1) (JavaScript)
 
-For Project 1 at [InceptionU](https://www.inceptionu.com/), we were to make a backend-only system that would respond to HTTP GET requests (e.g. through [cURL](https://curl.se/) or [Postman](https://www.postman.com/)).  Extra credit was given for supporting additional HTTP request types, using persistant storage and creating an [OpenAPI](https://www.openapis.org/) specification.
+For Project 1 at [InceptionU](https://www.inceptionu.com/), we were to make a backend-only system that would respond to HTTP GET requests (e.g. through [cURL](https://curl.se/) or [Postman](https://www.postman.com/)).  Extra credit was given for supporting additional HTTP request types, using persistent storage and creating an [OpenAPI](https://www.openapis.org/) specification.
 
 My submission was a proof-of-concept of how mentors and protégés can connect.  It implements full [CRUD functionality](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) for individuals, requests for help and offers of help.  Data is stored in JSON files that are saved when the server receives a SIGINT (Ctrl-C) signal.
 
