@@ -1,7 +1,7 @@
 # My Online Digital Portfolio
 <!-- If this title is changed then change the title(s) on the website's Portfolio page to match. -->
 
-<img src=".README/banner.jpg" alt="Banner">
+![Banner](.README/banner.jpg)
 
 **Greetings, Traveller, and Welcome!**
 
@@ -61,7 +61,7 @@ I was inspired to create this after seeing a similar app on an app store and say
 
 ## TRAIN Conference Websites (DHTML &ndash; HTML/CSS/JavaScript)
 
-[\[Web Page View\]](https://kwoodman1970.github.io/TRAINConference/)<br />
+[\[Web Page View\]](https://kwoodman1970.github.io/TRAINConference/)\
 [\[Repository View\]](https://github.com/kwoodman1970/TRAINConference/)
 
 These are websites that I created as a volunteer for TRAIN Conference.  **They're highly primitive in appearance and implementation by today's standards,** but they complied with the standards & best practices of the day and demonstrate how my skills improved &amp; my experience increased year after year.
