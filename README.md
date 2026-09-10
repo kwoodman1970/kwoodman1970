@@ -13,7 +13,25 @@ Here you'll find various projects using a range of technologies that I've worked
 
 In more-or-less reverse order of chronology:
 
-## Open Source Micro-Credentials &ndash; [Frontend](https://github.com/new-idea-machine/micro-credentials-platform-front) & [Backend](https://github.com/new-idea-machine/micro-credentials-platform-back) (MERN)
+## [pd.sh – Change Project Directories](https://github.com/kwoodman1970/pd_ProjectDirectory) (POSIX-Compatible Shell Script)
+
+This shell script quickly and conveniently changes to a project's frontend and backend directories in two separate terminals and is handy when switching between projects.  In one terminal, enter:
+
+```bash
+pd /some/project/frontend
+```
+
+In the other terminal, just enter:
+
+```bash
+pd
+```
+
+The terminal's current directory will now be `/some/project/backend`.  *The converse works as well – `frontend` and `backend` are interchangeable.*
+
+I made this after hearing a senior developer wish that he could switch between projects more easily.  It didn't *quite* suit his needs out-of-the-box, but he was able to adapt it and he still finds it handy.  I'm sharing it for the benefit of anyone else sees value in something like this.
+
+## Micro-Credentials &ndash; [Frontend](https://github.com/new-idea-machine/micro-credentials-platform-front) & [Backend](https://github.com/new-idea-machine/micro-credentials-platform-back) (MERN)
 
 I'm currently volunteering with [New Idea Machine](https://newideamachine.com/), and this project for [Untapped Energy](https://www.untappedenergy.ca/) is a web application where learners can access courses, lessons & other materials that are provided by instructors.  I was voted "Leader" by the other developers since I had the most experience.  We're all starting this project together at square one.
 
